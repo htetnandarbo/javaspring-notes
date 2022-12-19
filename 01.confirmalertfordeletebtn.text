@@ -1,0 +1,3 @@
+document.getElementById("deletebtn").onclick=function(){
+ 		return confirm('Are you sure to delete');
+ 	}
